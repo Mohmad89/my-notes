@@ -5,10 +5,11 @@
 
 ### my Skills
 
-    1- java
-    2- html
-    3- css
-    4- Js
+    1. java
+    2. html  
+    3. css
+    4. Js  
+    5. android Studio   
 
 # points that every developer must master
 
