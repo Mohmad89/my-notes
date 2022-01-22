@@ -18,4 +18,24 @@
     3. understanding
     4. Simplicity
     5. Complexity
+    6. Maintenance
+    7. Consistency
+    8. Prioritizing
+    9. Solving Problems
+    10. Good enough is fine
+    11. Predictions
+    12. Assumption
+    13. Stop Reinventiong
+    14. Resistance
+    15. Automation
+    16. Code measurement
+    17. Productivity
+    18. Testing
+    19. (Under)Estimation
+    20. Runing Away From Rewriting
+    21. Documentation and Commenting
+    22. Piking Techmologies (Tools . Libraries .etc.)
+    23. Self-Development
+    24. Don't be a hero 
+    25. Don't Ask Questions ... Ask For Help 
   
